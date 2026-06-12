@@ -20,7 +20,7 @@ class Solution{
 int main() {
     Solution sol;
     vector<int>nums= {3,1,2,3,4};
-    int val = 2;  //This is Remove Index Element 
+    int val = 2;
     
     cout<<"My Array: ";
     for(int i =0;i<nums.size();i++){
